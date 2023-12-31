@@ -201,9 +201,9 @@ body {
 
 .About .row .content p {
   margin-bottom: 0.1rem;
-  font-size: 1.6rem;
-  font-weight: 500;
-  line-height: 1.7;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5;
 }
 
 /*Menu Section*/
@@ -369,7 +369,7 @@ footer .credit a {
     right: -100%;
     background: #362222;
     width: 20rem;
-    height: 28vh;
+    height: 34vh;
     transition: 0.3s;
     border-radius: 1rem;
   }
