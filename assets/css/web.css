@@ -442,7 +442,7 @@ footer .credit a {
 }
 
 /*handphone*/
-@media (max-width: 450px) {
+@media (max-width: 350px) {
   html {
     font-size: 55%;
   }
