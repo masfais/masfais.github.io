@@ -371,7 +371,9 @@ footer .credit a {
     width: 20rem;
     height: 34vh;
     transition: 0.3s;
-    border-radius: 1rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-top-left-radius: 2rem;
   }
 
   .navbar .navbar-nav.active {
